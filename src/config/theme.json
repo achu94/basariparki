@@ -1,0 +1,35 @@
+{
+  "colors": {
+    "default": {
+      "theme_color": {
+        "primary": "#3B82F6",
+        "secondary": "#10B981",
+        "accent": "#F59E0B",
+        "neutral": "#FEF3C7",
+        "body": "#FFF9ED",
+        "dark": "#1E293B",
+        "light": "#D4EDDA",
+        "border": "#A8E6CF"
+      },
+      "text_color": {
+        "body": "#334155",
+        "title": "#1E293B",
+        "dark": "#0F172A",
+        "light": "#64748B",
+        "muted": "#94A3B8"
+      }
+    }
+  },
+  "fonts": {
+    "font_family": {
+      "primary": "Fredoka One",
+      "primary_type": "cursive",
+      "secondary": "Nunito",
+      "secondary_type": "sans-serif"
+    },
+    "font_size": {
+      "base": 16,
+      "scale": 1.25
+    }
+  }
+}

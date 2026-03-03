@@ -1,0 +1,37 @@
+{
+  "site": {
+    "name": "Basariparki",
+    "tagline": "Sicherheit, Spaß und Lernen für Ihr Kind",
+    "base_url": "https://example.com",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/favicon.ico",
+    "logo": "/logo.svg",
+    "logo_text": "Basariparki",
+    "logo_width": "180",
+    "logo_height": "50",
+    "logo_text_custom": "Basariparki",
+    "logo_text_width": "140",
+    "logo_text_height": "35"
+  },
+  "site_image": {
+    "width": "1200",
+    "height": "630",
+    "meta_image": "images/og-image.jpg"
+  },
+  "params": {
+    "contact_form": {
+      "enable": true
+    }
+  },
+  "metadata": {
+    "meta_author": "Basariparki",
+    "meta_image": "images/og-image.jpg",
+    "meta_description": "Basariparki - Sicherer Indoor-Spielplatz für Kinder. Bastelecke, Hüpfburgen und viel mehr Spaß."
+  },
+  "navigation_button": {
+    "enable": true,
+    "label": "Kontaktieren",
+    "link": "#kontakt"
+  }
+}
